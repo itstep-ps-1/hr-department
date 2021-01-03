@@ -8,7 +8,7 @@ using System.Runtime.CompilerServices;
 
 namespace ClassLibrary1
 {
-    class Employee : INotifyPropertyChanged
+    public class Employee : INotifyPropertyChanged
     {
         public int Id { get; set; }
         public string Name { get; set; }

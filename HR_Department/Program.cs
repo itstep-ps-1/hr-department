@@ -10,6 +10,7 @@ namespace HR_Department
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Здесь будет меню выбора операций ....");
         }
     }
 }
